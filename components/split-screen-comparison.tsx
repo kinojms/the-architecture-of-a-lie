@@ -34,7 +34,7 @@ export function SplitScreenComparison() {
         >
           <div className="relative aspect-video bg-slate-900 rounded-lg overflow-hidden border border-gray-800">
             <img
-              src="/images/the-yellow-press-era.jpg" 
+              src="public/images/the-yellow-press-era.jpg" 
               alt="1895 Newspaper Era - Yellow Press newsstand"
               className="w-full h-full object-cover"
             />
@@ -70,7 +70,7 @@ export function SplitScreenComparison() {
         >
           <div className="relative aspect-video bg-slate-900 rounded-lg overflow-hidden border border-gray-800">
             <img
-              src="/images/the-algorithmic-age.jpg"
+              src="public/images/the-algorithmic-age.jpg"
               alt="2024 Digital Networks - Social media apps on smartphone"
               className="w-full h-full object-cover"
             />
